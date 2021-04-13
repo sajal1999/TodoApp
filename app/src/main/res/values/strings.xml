@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+
+
+
+
+    <string-array name="colors">
+
+        <item>@color/red</item>
+
+        <item>@color/yellow</item>
+
+        <item>@color/green</item>
+
+        <item>@color/blue</item>
+
+    </string-array>
+</resources>
